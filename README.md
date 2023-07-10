@@ -56,12 +56,18 @@ We show some cases in Figure 1 - 7. More examples will be released soon.
 
 ![Figure 7](./images/7.png)
 
+## About Us
+Project members are from College of Computer Science and Technology, and Institute of Computing Innovation of Zhejiang University.
+<div align="center">
+<img src="./images/univ_logo.png" width="300"/>
+</div>
+
 ## Citation
 You can cite this technical report like this:
 ```BibTeX
 @misc{2023tablegpt,
     title={TableGPT: Towards Unifying Tables, Nature Language and Commands into One GPT},
-    author={TableGPT Team},
+    author={Zha, Liangyu and Zhou, Junlin and Li, Liyao and Wang, Rui and Huang, Qingyi and Yang, Saisai and Yuan, Jing and Su, Changbao and Li, Xiang and Su, Aofeng and Zhang, Tao and Zhou, Chen and others},
     howpublished = {\url{https://github.com/ZJU-M3/TableGPT-techreport}},
     year={2023}
 }
