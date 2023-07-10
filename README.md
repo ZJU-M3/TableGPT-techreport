@@ -5,10 +5,6 @@
 
 <img src="./images/logo.svg" width="200"/>
 
-<!-- <p align="center">
-
-<font face="黑体" color=orange size=5"> 专注表格数据处理和分析的大语言模型 </font>
-</p> -->
 
 [![license](./images/license.svg)](./LICENSE)
 [![Model license](./images/model_license.svg)](./MODEL_LICENSE)
@@ -60,3 +56,13 @@ We show some cases in Figure 1 - 7. More examples will be released soon.
 
 ![Figure 7](./images/7.png)
 
+## Citation
+You can cite this technical report like this:
+```BibTeX
+@misc{2023tablegpt,
+    title={TableGPT: Towards Unifying Tables, Nature Language and Commands into One GPT},
+    author={TableGPT Team},
+    howpublished = {\url{https://github.com/ZJU-M3/TableGPT-techreport}},
+    year={2023}
+}
+```
