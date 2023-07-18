@@ -65,10 +65,10 @@ Project members are from College of Computer Science and Technology, and Institu
 ## Citation
 You can cite this technical report like this:
 ```BibTeX
-@misc{2023tablegpt,
+@article{2023tablegpt,
     title={TableGPT: Towards Unifying Tables, Nature Language and Commands into One GPT},
     author={Zha, Liangyu and Zhou, Junlin and Li, Liyao and Wang, Rui and Huang, Qingyi and Yang, Saisai and Yuan, Jing and Su, Changbao and Li, Xiang and Su, Aofeng and Zhang, Tao and Zhou, Chen and others},
-    howpublished = {\url{https://github.com/ZJU-M3/TableGPT-techreport}},
+    journal={arXiv preprint arXiv:2307.08674},
     year={2023}
 }
 ```
