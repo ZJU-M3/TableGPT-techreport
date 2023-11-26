@@ -13,7 +13,7 @@
 
 TableGPT is a specifically designed for table analysis. By unifying tables, natural language, and commands into one model, TableGPT comprehends tabular data, understands user intent through natural language, dissects the desired actions, and executes external commands on the table. It subsequently returns the processed results in both tabular and textual explanations to the user. This novel approach simplifies the way users engage with table data, bringing an intuitive feel to data analysis. 
 
-**Technical report**: [[PDF]](TableGPT_tech_report.pdf)
+**Technical report**: [[PDF]](TableGPT_tech_report.pdf) [[Arxiv]](https://arxiv.org/abs/2307.08674)
 
 **Note:** Please right click the link above to directly download the PDF file.
 
